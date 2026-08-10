@@ -1,6 +1,6 @@
 site_name: Cancer Data Science Cheat Sheets
 site_description: Glossary-style cheat sheets for cancer data science
-repo_url: https://github.com/YOUR_USERNAME/cancer-ds-cheatsheets
+repo_url: https://github.com/rachelicr/CDSCS
 edit_uri: edit/main/docs/
 
 theme:
